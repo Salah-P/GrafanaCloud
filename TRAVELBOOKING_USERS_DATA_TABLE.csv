@@ -1,10 +1,10 @@
-"USER_ID","NAME","EMAIL","PASSWORD","PHONE_NUMBER","CREATED_AT"
-2001,"Arjun Sharma","arjun.sharma3@airindia.in","hashed_pass_abc","+91900002001",12-03-23 9:15:30.000000000 AM
-2002,"Priya Patel","priya.patel3@gmail.in","hashed_pass_def","+91900002002",25-04-23 2:45:12.000000000 PM
-2003,"Vikram Singh","vikram.singh3@airindia.in","hashed_pass_ghi","+91900002003",07-06-23 9:10:55.000000000 PM
-2004,"Ananya Kapoor","ananya.kapoor3@gmail.in","hashed_pass_jkl","+91900002004",19-07-23 6:30:22.000000000 AM
-2005,"Rohan Rao","rohan.rao3@airindia.in","hashed_pass_mno","+91900002005",03-09-23 5:25:47.000000000 PM
-2006,"Neha Gupta","neha.gupta3@gmail.in","hashed_pass_pqr","+91900002006",15-10-23 11:55:09.000000000 AM
-2007,"Arjun Desai","arjun.desai3@airindia.in","hashed_pass_stu","+91900002007",28-11-23 3:40:15.000000000 AM
-2008,"Suman Joshi","suman.joshi3@gmail.in","hashed_pass_vwx","+91900002008",09-01-24 1:20:33.000000000 PM
-2009,"Kunal Yadav","kunal.yadav3@airindia.in","hashed_pass_yza","+91900002009",14-02-24 7:05:58.000000000 PM
+"USER_ID","NAME","EMAIL","PASSWORD","PHONE_NUMBER"
+2001,"Arjun Sharma","arjun.sharma3@airindia.in","hashed_pass_abc","+91900002001"
+2002,"Priya Patel","priya.patel3@gmail.in","hashed_pass_def","+91900002002"
+2003,"Vikram Singh","vikram.singh3@airindia.in","hashed_pass_ghi","+91900002003"
+2004,"Ananya Kapoor","ananya.kapoor3@gmail.in","hashed_pass_jkl","+91900002004"
+2005,"Rohan Rao","rohan.rao3@airindia.in","hashed_pass_mno","+91900002005"
+2006,"Neha Gupta","neha.gupta3@gmail.in","hashed_pass_pqr","+91900002006"
+2007,"Arjun Desai","arjun.desai3@airindia.in","hashed_pass_stu","+91900002007"
+2008,"Suman Joshi","suman.joshi3@gmail.in","hashed_pass_vwx","+91900002008"
+2009,"Kunal Yadav","kunal.yadav3@airindia.in","hashed_pass_yza","+91900002009"
